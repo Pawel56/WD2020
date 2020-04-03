@@ -1,3 +1,3 @@
 import sys
-s=sys.stdin.readline()
+s=input("podaj zdanie a policze spacje : ")
 print(s.count(" "))
